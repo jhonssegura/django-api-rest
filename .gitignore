@@ -1,0 +1,8 @@
+node_modules
+.vscode
+logs
+_templates
+entorno-virtual
+__pycache__
+migrations
+db.sqlite3
